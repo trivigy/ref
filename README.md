@@ -2,7 +2,7 @@
 
 [![Discord](https://img.shields.io/discord/428990244952735764.svg?style=flat&logo=discord&colorB=green)](https://discord.gg/M9nxJ3g)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
-[![Release](https://img.shields.io/badge/release-v1.0.0-e36397.svg)](https://github.com/syncaide/ref/releases/tag/v1.0.0)
+[![Release](https://img.shields.io/badge/release-v1.0.1-e36397.svg)](https://github.com/syncaide/ref/releases/tag/v1.0.1)
 
 ## Introduction
 In golang v1, unfortunately, there is no nice builtin way to represent optional 
