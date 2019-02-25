@@ -1,4 +1,4 @@
-// Package ref implements basic type pointer de-referencing function.
+// Package ref implements primitive type pointer de-referencing function.
 package ref
 
 func Bool(value bool) *bool {
