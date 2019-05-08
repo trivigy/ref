@@ -72,3 +72,7 @@ func Uint32(value uint32) *uint32 {
 func Uint64(value uint64) *uint64 {
 	return &value
 }
+
+func Slice(value []interface{}) *[]interface{} {
+	return &value
+}
