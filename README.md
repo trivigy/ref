@@ -1,10 +1,9 @@
 # Ref
 
-[![Discord](https://img.shields.io/discord/428990244952735764.svg?style=flat&logo=discord&colorB=green)](https://discord.gg/M9nxJ3g)
-[![CircleCI branch](https://img.shields.io/circleci/project/github/syncaide/ref/master.svg?label=master&logo=circleci)](https://circleci.com/gh/syncaide/workflows/ref)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE.md)
-[![](https://godoc.org/github.com/syncaide/ref?status.svg&style=flat)](http://godoc.org/github.com/syncaide/ref)
-[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/syncaide/ref.svg?style=flat&color=e36397&label=release)](https://github.com/syncaide/ref/releases/latest)
+[![CircleCI branch](https://img.shields.io/circleci/project/github/trivigy/ref/master.svg?label=master&logo=circleci)](https://circleci.com/gh/trivigy/workflows/ref)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
+[![](https://godoc.org/github.com/trivigy/ref?status.svg&style=flat)](http://godoc.org/github.com/trivigy/ref)
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/trivigy/ref.svg?style=flat&color=e36397&label=release)](https://github.com/trivigy/ref/releases/latest)
 
 ## Introduction
 In golang v1, unfortunately, there is no nice builtin way to represent optional 
@@ -20,7 +19,7 @@ package main
 import (
 	"fmt"
 	
-	"github.com/syncaide/ref"
+	"github.com/trivigy/ref"
 )
 
 type Sample struct {

@@ -1,4 +1,4 @@
-module github.com/syncaide/ref
+module github.com/trivigy/ref
 
 go 1.12
 
